@@ -1,0 +1,2 @@
+# nginx-fancyindex
+用于构建docker镜像的dockerfile，让nginx支持fancyindex模组
