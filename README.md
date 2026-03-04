@@ -1,5 +1,6 @@
 # nginx-fancyindex
 用于构建docker镜像的dockerfile，让nginx支持fancyindex模组
+
 ##下载源码
 ```
 wget http://nginx.org/download/nginx-1.27.5.tar.gz
